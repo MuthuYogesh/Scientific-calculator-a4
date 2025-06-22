@@ -1,0 +1,13 @@
+.defaultStyle{
+    width: 1fr;
+    padding: 0.6rem 1rem;
+    border-radius: 10px;
+    border: none;
+    color: #f0f0f1;
+    background-color: #5e5e64;
+    font-weight: 600;
+}
+
+.defaultStyle:hover{
+    background-color: rgb(from #5e5e64 r g b / 0.5);
+}

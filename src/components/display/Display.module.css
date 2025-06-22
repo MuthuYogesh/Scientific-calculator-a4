@@ -1,0 +1,18 @@
+.expr, .result{
+    margin-right: 15px;
+    color: #717171;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.result{
+    font-size: 20px;
+}
+
+.values{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+    gap: 10px;
+}
